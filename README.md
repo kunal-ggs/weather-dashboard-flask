@@ -26,8 +26,7 @@ Users can enter any city name and check:
    python app.py
 
 3. Open:
-   http://127.0.0.1:5000
-
+   (https://weather-dashboard-flask-5z63.onrender.com)
 ## What I Learned
 
 - API Integration
